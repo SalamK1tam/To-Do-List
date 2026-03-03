@@ -108,7 +108,7 @@ ul li.checked::before {
     font-size: 24px;
     right: 0;
     top: 0;
-    padding: 11px 16px 8px 16px; 
+    padding: 11px 16px 0 16px; 
     border-radius: 0 5px 5px 0;
     background-color: #d67473;
     transition: 0.2s;
